@@ -19,7 +19,7 @@
   "dependencies": {
     "imagemin-pngquant": "^4.2.0",
     "loader-utils": "^0.2.14",
-    "imagemin": "^4.0.0",
+    "imagemin": "https://github.com/minerva-institute-mu/imagemin#v4.0.0-patched",
     "file-loader": "*"
   },
   "devDependencies": {
